@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Meghan Forsythe
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Meghan
+last_name: Forsythe
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: She/Her
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,35 +23,25 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Molecular & Cellular Biology Researcher. UCSB Honors College. PhD applicant.
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: University of California, Santa Barbara
+    url: https://www.mcdb.ucsb.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/meghan-forsythe-96b957286/
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Translational Research
+  - Chemical Biology
+  - Cancer Pharmacology
+  - Immunotherapy
+  - Metabolic Disease
 
 education:
   - area: PhD Computer Science (AI Focus)
@@ -106,31 +96,55 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
+      - name: ELISA
         description: ''
         percent: 95
         icon: code-bracket
-      - name: Machine Learning
+      - name: CRISPRi/dCas9
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+      - name: Lentiviral Vector Packaging
         description: ''
         percent: 85
         icon: cloud
+      - name: qPCR, RT-PCR
+        description: ''
+        percent: 95
+        icon: code-bracket
+      - name: Cell Culture
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: GraphPad Prism
+        description: ''
+        percent: 85
+        icon: cloud
+      - name: MATLAB
+        description: ''
+        percent: 85
+        icon: cloud
+      - name: Scientific Writing
+        description: ''
+        percent: 85
+        icon: cloud
+
+
+
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: Hiking
         description: ''
         percent: 80
         icon: person-simple-walk
-      - name: Building Custom PCs
+      - name: Surfing
         description: ''
         percent: 90
         icon: cpu-chip
-      - name: Sci-Fi Reading
+      - name: Thrifting
         description: ''
         percent: 70
         icon: book-open
@@ -169,4 +183,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I am a senior honors student at UC Santa Barbara, majoring in Molecular & Cellular Biology (Microbiology emphasis, GPA 3.99), currently applying to PhD programs. My research integrates evolutionary theory and cancer genomics, with active contributions to academic panels, mentorship, and scientific presentation at national conferences. Recent projects span cancer genetics at NIH, drug development at BioCryst Pharmaceuticals, and comparative genomics in the Boddy Lab.

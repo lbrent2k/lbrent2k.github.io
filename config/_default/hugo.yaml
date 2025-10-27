@@ -6,7 +6,7 @@
 # Website name
 title: Hugo Academic CV Theme
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://meghanthinks.com/'
 
 ############################
 ## LANGUAGE
@@ -53,3 +53,9 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+deployment:
+  targets:
+    - name: "aws"
+      URL: "s3://billystrings?region=us-east-1"
+      cloudFrontDistributionID: "EWNN728WC5Z1B"
+      cloudFrontDefaultRootObject: "index.html"
